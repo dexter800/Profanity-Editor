@@ -14,3 +14,5 @@ def check_profanity(text_to_check):
     print(out_put)
     connection.close()
 read_text()
+
+print("Hello World")

@@ -15,4 +15,3 @@ def check_profanity(text_to_check):
     connection.close()
 read_text()
 
-print("Hello World")
